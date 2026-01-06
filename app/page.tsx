@@ -64,12 +64,12 @@ export default function Home() {
             <div className="w-10 h-10 bg-gradient-to-br from-cyan-500 to-blue-600 rounded flex items-center justify-center">
               <Crosshair className="w-6 h-6" />
             </div>
-            <h1 className="text-2xl font-bold">Krunker.io</h1>
+            <h1 className="text-2xl font-bold">Fast Browser FPS</h1>
           </div>
-          <nav className="flex gap-6 text-sm text-zinc-400">
+          {/* <nav className="flex gap-6 text-sm text-zinc-400">
             <button className="hover:text-white transition-colors">Settings</button>
             <button className="hover:text-white transition-colors">Stats</button>
-          </nav>
+          </nav> */}
         </div>
       </header>
 
